@@ -1,0 +1,8 @@
+C:\Users\valer\source\repos\CalculatingShapeAreaCop\CalculatingShapeAreaCop\bin\Debug\CalculatingShapeAreaCop.exe.config
+C:\Users\valer\source\repos\CalculatingShapeAreaCop\CalculatingShapeAreaCop\bin\Debug\CalculatingShapeAreaCop.exe
+C:\Users\valer\source\repos\CalculatingShapeAreaCop\CalculatingShapeAreaCop\bin\Debug\CalculatingShapeAreaCop.pdb
+C:\Users\valer\source\repos\CalculatingShapeAreaCop\CalculatingShapeAreaCop\obj\Debug\CalculatingShapeAreaCop.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\CalculatingShapeAreaCop\CalculatingShapeAreaCop\obj\Debug\CalculatingShapeAreaCop.csproj.SuggestedBindingRedirects.cache
+C:\Users\valer\source\repos\CalculatingShapeAreaCop\CalculatingShapeAreaCop\obj\Debug\CalculatingShapeAreaCop.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\CalculatingShapeAreaCop\CalculatingShapeAreaCop\obj\Debug\CalculatingShapeAreaCop.exe
+C:\Users\valer\source\repos\CalculatingShapeAreaCop\CalculatingShapeAreaCop\obj\Debug\CalculatingShapeAreaCop.pdb

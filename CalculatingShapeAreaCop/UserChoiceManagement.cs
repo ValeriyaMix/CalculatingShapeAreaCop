@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace CalculatingShapeAreaCop
 {
-    internal class UserChoiceManagement: UserInput
+    public class UserChoiceManagement: UserInput
     {
         Area objArea = null;
         UserInput objInput = new UserInput();
@@ -72,18 +72,18 @@ namespace CalculatingShapeAreaCop
                 }
             }
 
-            Console.WriteLine($"The area of the shape is {objArea.AreaCalculation()}");
+            Console.WriteLine($"The area of the shape is {Math.Round(objArea.AreaCalculation(), 3)}");
 
         }
 
-        CircleArea ChoosenCircle()
+        public CircleArea ChoosenCircle()
         {
             Console.WriteLine("Please insert the value of the radius" +
                     " of a circle");
             double radius = IsPositive(Console.ReadLine().ToLower());
             CircleArea area = new CircleArea();
             area.Side_x = radius;   
-
+           
             return area;
         }
 

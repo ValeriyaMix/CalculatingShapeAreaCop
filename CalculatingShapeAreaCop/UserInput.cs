@@ -7,11 +7,11 @@ using System.Text.RegularExpressions;
 
 namespace CalculatingShapeAreaCop
 {
-    internal class UserInput
+    public class UserInput
     {
         public string[] shapeTypes = { "square", "rectangle", "trapezoid",
             "parallelogram" };
-        public static int CheckUserChoice(string choice)
+        public int CheckUserChoice(string choice)
         {
             string strRegex = @"([1-4])";
             Regex re = new Regex(strRegex);

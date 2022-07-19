@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CalculatingShapeAreaCop
 {
-    internal class CircleArea: Area
+    public class CircleArea: Area
     {
         
 
